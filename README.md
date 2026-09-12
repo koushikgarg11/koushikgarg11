@@ -9,6 +9,9 @@
   <a href="mailto:koushikgarg11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
+  <a href="https://koushikgarg11-portfolio-app.streamlit.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=streamlit" />
+  </a>
 </p>
 
 ---
@@ -197,6 +200,14 @@ Bachelor of Commerce (Honours)
 - 🌱 Deepening my skills in **Machine Learning, GIS Analytics & AI Automation**
 - 📊 Working on practical **Business Analytics & BI projects**
 - 🤖 Exploring **LLM-powered analytics and workflow automation**
+
+---
+
+## 🌐 Portfolio
+
+Explore my projects, dashboards, analytics applications, and data science work:
+
+### 👉 [Visit My Portfolio](https://koushikgarg11-portfolio-app.streamlit.app/)
 
 ---
 
